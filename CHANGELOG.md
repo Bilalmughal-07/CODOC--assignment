@@ -4,4 +4,4 @@
 
 - Initial repository setup
 - Added project structure
-- Added documentation files
+- Added documentation file
