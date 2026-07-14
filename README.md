@@ -20,5 +20,4 @@ Open `index.html` in any browser.
 
 ## Status
 
-Project Status
-under progress
+under review
