@@ -5,7 +5,6 @@ A simple landing page created for the Codoc GitHub Internship Assignment.
 ## Technologies
 - HTML
 - CSS
-- JavaScript
 
 ## Project Structure
 
