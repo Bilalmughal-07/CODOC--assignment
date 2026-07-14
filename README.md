@@ -20,4 +20,6 @@ Open `index.html` in any browser.
 
 ## Status
 
-In Progress
+Project Status
+
+Completed
