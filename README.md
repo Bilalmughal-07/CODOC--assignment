@@ -17,7 +17,7 @@ A simple landing page created for the Codoc GitHub Internship Assignment.
 
 ## How to Run
 
-Open `index.html` in your browser.
+Open `index.html` in any browser.
 
 ## Status
 
